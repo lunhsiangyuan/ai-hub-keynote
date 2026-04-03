@@ -8,10 +8,8 @@ A keynote talk demonstrating how a clinician-researcher integrates AI agents int
 
 ## Contents
 
-- **Keynote slides** (`.pptx`) — main presentation deck
-- **Demo scripts** (`.docx`) — step-by-step live demo walkthroughs
-
-> Files will be added once finalized.
+- **`AI_Hub_Keynote_From_Stethoscope_to_Terminal.pptx`** — 30-slide keynote deck with full speaker notes
+- **`AI_Hub_Keynote_Demo_Scripts.docx`** — step-by-step live demo scripts (Demo 1–3, Hands-On, Backup Plans, Pre-Talk Checklist)
 
 ## Talk Abstract
 
